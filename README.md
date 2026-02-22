@@ -3,7 +3,7 @@ Jailbreak desde Windows.
 
 Hola, quiero ayudar a los que tienen problemas con algo tan sencillo como hacer Jailbreak en iPhone antiguos (hasta el Chip A11), ya que estuve mucho tiempo haciendolo sin tener resultados ni soluciones.
 
-IMPORTANTE!! Desactivar el antivirus de la computadora y usar cable USB-A a Lightning conectado al puero USB 2.0 de la computadora (mayormente el puerto es de color negro), de lo contrario no funcionara bien.
+IMPORTANTE!! Desactivar el antivirus de la computadora y usar cable USB-A a Lightning conectado al puerto USB 2.0 de la computadora (mayormente el puerto es de color negro), de lo contrario no funcionara bien.
 
 
 -DESCARGAS:  Deben descargar WinRa1n 2.1 (herramienta para el Jailbreack), AppleMobileDevice  y UsbDK (Driver compatibles necesarios).
